@@ -31,10 +31,10 @@
       "icons": [{ "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%9B%92%3C/text%3E%3C/svg%3E", "sizes": "96x96" }]
     },
     {
-      "name": "Ver cartera",
-      "short_name": "Cartera",
-      "url": "./index.html#cartera",
-      "icons": [{ "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%8B%3C/text%3E%3C/svg%3E", "sizes": "96x96" }]
+      "name": "Cobrar por QR",
+      "short_name": "QR",
+      "url": "./index.html#cobrar-qr",
+      "icons": [{ "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%B1%3C/text%3E%3C/svg%3E", "sizes": "96x96" }]
     }
   ]
 }
